@@ -148,7 +148,7 @@ body {
 /* Page */
 
 .page {
-  max-width: 820px;
+  /*! max-width: 820px; */
   width: 100%;
   padding: 40px 48px 64px;
 }
